@@ -22,4 +22,5 @@ To build apk:-
 2) ionic cordova build android
 
 apk will be build in "platforms\android\app\build\outputs\apk\debug\" folder.
+
 copy and install apk in your mobile to have real time experiance.
