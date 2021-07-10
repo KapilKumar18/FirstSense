@@ -2,10 +2,16 @@ Please follow step below:-
 
 1) unzip folder
 
-2) run below in cmd prompt
+2) install nodejs
 
+3) run below in cmd prompt
+
+   -> npm install -g @ionic/cli
+   
+   -> npm install -g @cordova
+   
    -> npm install
-
+     
    -> ionic serve -l (run application on browser)
    
    Page 1: Login page-
