@@ -3,8 +3,8 @@ Please follow step below:-
 1) unzip folder
 
 2) run below in cmd prompt
-   npm install
-   ionic serve -l (run application on browser)
+   -> npm install
+   -> ionic serve -l (run application on browser)
    
    Page 1: Login page-
            enter any email and any password.
